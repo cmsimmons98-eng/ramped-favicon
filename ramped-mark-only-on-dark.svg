@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
-  <title>RAMPED — Mark Only — on-dark</title>
-  <desc>Full-color version for placement on dark surfaces (anthracite or similar). Natural icon — no additional container needed.</desc>
-  <g transform="translate(40, 40)">
-    <rect x="-32" y="-32" width="64" height="64" fill="none" stroke="#F5F5EF" stroke-width="5"/>
-    <path d="M -27,0 L -15,0 L -6,-10 L 8,10 L 18,0 L 27,0" stroke="#DFFF00" stroke-width="5" fill="none" stroke-linejoin="miter" stroke-linecap="square" stroke-miterlimit="3"/>
-  </g>
-</svg>
